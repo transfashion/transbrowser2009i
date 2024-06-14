@@ -1,0 +1,322 @@
+D:\Documents\dhewe\dhewe's documents\Visual Studio 2005\Projects\TransCorp\_CORE_\Transbrowser2009d\VS2005Extender\bin\Debug\VS2005Extender.dll
+D:\Documents\dhewe\dhewe's documents\Visual Studio 2005\Projects\TransCorp\_CORE_\Transbrowser2009d\VS2005Extender\bin\Debug\VS2005Extender.pdb
+D:\Documents\dhewe\dhewe's documents\Visual Studio 2005\Projects\TransCorp\_CORE_\Transbrowser2009d\VS2005Extender\bin\Debug\VS2005Extender.xml
+D:\Documents\dhewe\dhewe's documents\Visual Studio 2005\Projects\TransCorp\_CORE_\Transbrowser2009d\VS2005Extender\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+D:\Documents\dhewe\dhewe's documents\Visual Studio 2005\Projects\TransCorp\_CORE_\Transbrowser2009d\VS2005Extender\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents\dhewe\dhewe's documents\Visual Studio 2005\Projects\TransCorp\_CORE_\Transbrowser2009d\VS2005Extender\obj\Debug\VS2005Extender.DockPaneCaption.AutoHideNo.bmp
+D:\Documents\dhewe\dhewe's documents\Visual Studio 2005\Projects\TransCorp\_CORE_\Transbrowser2009d\VS2005Extender\obj\Debug\VS2005Extender.DockPaneCaption.AutoHideYes.bmp
+D:\Documents\dhewe\dhewe's documents\Visual Studio 2005\Projects\TransCorp\_CORE_\Transbrowser2009d\VS2005Extender\obj\Debug\VS2005Extender.DockPaneCaption.CloseDisabled.bmp
+D:\Documents\dhewe\dhewe's documents\Visual Studio 2005\Projects\TransCorp\_CORE_\Transbrowser2009d\VS2005Extender\obj\Debug\VS2005Extender.DockPaneCaption.CloseEnabled.bmp
+D:\Documents\dhewe\dhewe's documents\Visual Studio 2005\Projects\TransCorp\_CORE_\Transbrowser2009d\VS2005Extender\obj\Debug\VS2005Extender.DockPaneCaption.OptionsDisabled.bmp
+D:\Documents\dhewe\dhewe's documents\Visual Studio 2005\Projects\TransCorp\_CORE_\Transbrowser2009d\VS2005Extender\obj\Debug\VS2005Extender.DockPaneCaption.OptionsEnabled.bmp
+D:\Documents\dhewe\dhewe's documents\Visual Studio 2005\Projects\TransCorp\_CORE_\Transbrowser2009d\VS2005Extender\obj\Debug\VS2005Extender.DockPaneStrip.CloseDisabled.bmp
+D:\Documents\dhewe\dhewe's documents\Visual Studio 2005\Projects\TransCorp\_CORE_\Transbrowser2009d\VS2005Extender\obj\Debug\VS2005Extender.DockPaneStrip.CloseEnabled.bmp
+D:\Documents\dhewe\dhewe's documents\Visual Studio 2005\Projects\TransCorp\_CORE_\Transbrowser2009d\VS2005Extender\obj\Debug\VS2005Extender.DockPaneStrip.OptionsDisabled.bmp
+D:\Documents\dhewe\dhewe's documents\Visual Studio 2005\Projects\TransCorp\_CORE_\Transbrowser2009d\VS2005Extender\obj\Debug\VS2005Extender.DockPaneStrip.OptionsEnabled.bmp
+D:\Documents\dhewe\dhewe's documents\Visual Studio 2005\Projects\TransCorp\_CORE_\Transbrowser2009d\VS2005Extender\obj\Debug\VS2005Extender.DockPaneStrip.OverflowDisabled.bmp
+D:\Documents\dhewe\dhewe's documents\Visual Studio 2005\Projects\TransCorp\_CORE_\Transbrowser2009d\VS2005Extender\obj\Debug\VS2005Extender.DockPaneStrip.OverflowEnabled.bmp
+D:\Documents\dhewe\dhewe's documents\Visual Studio 2005\Projects\TransCorp\_CORE_\Transbrowser2009d\VS2005Extender\obj\Debug\VS2005Extender.VS2005Style.PopupButton.resources
+D:\Documents\dhewe\dhewe's documents\Visual Studio 2005\Projects\TransCorp\_CORE_\Transbrowser2009d\VS2005Extender\obj\Debug\VS2005Extender.Resources.resources
+D:\Documents\dhewe\dhewe's documents\Visual Studio 2005\Projects\TransCorp\_CORE_\Transbrowser2009d\VS2005Extender\obj\Debug\VS2005Extender.vbproj.GenerateResource.Cache
+D:\Documents\dhewe\dhewe's documents\Visual Studio 2005\Projects\TransCorp\_CORE_\Transbrowser2009d\VS2005Extender\obj\Debug\VS2005Extender.dll
+D:\Documents\dhewe\dhewe's documents\Visual Studio 2005\Projects\TransCorp\_CORE_\Transbrowser2009d\VS2005Extender\obj\Debug\VS2005Extender.xml
+D:\Documents\dhewe\dhewe's documents\Visual Studio 2005\Projects\TransCorp\_CORE_\Transbrowser2009d\VS2005Extender\obj\Debug\VS2005Extender.pdb
+d:\Documents\dhewe\dhewe's documents\Visual Studio 2005\Projects\TransCorp\_CORE_\Transbrowser2009d\VS2005Extender\bin\Release\VS2005Extender.dll
+d:\Documents\dhewe\dhewe's documents\Visual Studio 2005\Projects\TransCorp\_CORE_\Transbrowser2009d\VS2005Extender\bin\Release\VS2005Extender.pdb
+d:\Documents\dhewe\dhewe's documents\Visual Studio 2005\Projects\TransCorp\_CORE_\Transbrowser2009d\VS2005Extender\bin\Release\VS2005Extender.xml
+d:\Documents\dhewe\dhewe's documents\Visual Studio 2005\Projects\TransCorp\_CORE_\Transbrowser2009d\VS2005Extender\bin\Release\WeifenLuo.WinFormsUI.Docking.dll
+d:\Documents\dhewe\dhewe's documents\Visual Studio 2005\Projects\TransCorp\_CORE_\Transbrowser2009d\VS2005Extender\obj\Release\ResolveAssemblyReference.cache
+d:\Documents\dhewe\dhewe's documents\Visual Studio 2005\Projects\TransCorp\_CORE_\Transbrowser2009d\VS2005Extender\obj\Release\VS2005Extender.DockPaneCaption.AutoHideNo.bmp
+d:\Documents\dhewe\dhewe's documents\Visual Studio 2005\Projects\TransCorp\_CORE_\Transbrowser2009d\VS2005Extender\obj\Release\VS2005Extender.DockPaneCaption.AutoHideYes.bmp
+d:\Documents\dhewe\dhewe's documents\Visual Studio 2005\Projects\TransCorp\_CORE_\Transbrowser2009d\VS2005Extender\obj\Release\VS2005Extender.DockPaneCaption.CloseDisabled.bmp
+d:\Documents\dhewe\dhewe's documents\Visual Studio 2005\Projects\TransCorp\_CORE_\Transbrowser2009d\VS2005Extender\obj\Release\VS2005Extender.DockPaneCaption.CloseEnabled.bmp
+d:\Documents\dhewe\dhewe's documents\Visual Studio 2005\Projects\TransCorp\_CORE_\Transbrowser2009d\VS2005Extender\obj\Release\VS2005Extender.DockPaneCaption.OptionsDisabled.bmp
+d:\Documents\dhewe\dhewe's documents\Visual Studio 2005\Projects\TransCorp\_CORE_\Transbrowser2009d\VS2005Extender\obj\Release\VS2005Extender.DockPaneCaption.OptionsEnabled.bmp
+d:\Documents\dhewe\dhewe's documents\Visual Studio 2005\Projects\TransCorp\_CORE_\Transbrowser2009d\VS2005Extender\obj\Release\VS2005Extender.DockPaneStrip.CloseDisabled.bmp
+d:\Documents\dhewe\dhewe's documents\Visual Studio 2005\Projects\TransCorp\_CORE_\Transbrowser2009d\VS2005Extender\obj\Release\VS2005Extender.DockPaneStrip.CloseEnabled.bmp
+d:\Documents\dhewe\dhewe's documents\Visual Studio 2005\Projects\TransCorp\_CORE_\Transbrowser2009d\VS2005Extender\obj\Release\VS2005Extender.DockPaneStrip.OptionsDisabled.bmp
+d:\Documents\dhewe\dhewe's documents\Visual Studio 2005\Projects\TransCorp\_CORE_\Transbrowser2009d\VS2005Extender\obj\Release\VS2005Extender.DockPaneStrip.OptionsEnabled.bmp
+d:\Documents\dhewe\dhewe's documents\Visual Studio 2005\Projects\TransCorp\_CORE_\Transbrowser2009d\VS2005Extender\obj\Release\VS2005Extender.DockPaneStrip.OverflowDisabled.bmp
+d:\Documents\dhewe\dhewe's documents\Visual Studio 2005\Projects\TransCorp\_CORE_\Transbrowser2009d\VS2005Extender\obj\Release\VS2005Extender.DockPaneStrip.OverflowEnabled.bmp
+d:\Documents\dhewe\dhewe's documents\Visual Studio 2005\Projects\TransCorp\_CORE_\Transbrowser2009d\VS2005Extender\obj\Release\VS2005Extender.VS2005Style.PopupButton.resources
+d:\Documents\dhewe\dhewe's documents\Visual Studio 2005\Projects\TransCorp\_CORE_\Transbrowser2009d\VS2005Extender\obj\Release\VS2005Extender.Resources.resources
+d:\Documents\dhewe\dhewe's documents\Visual Studio 2005\Projects\TransCorp\_CORE_\Transbrowser2009d\VS2005Extender\obj\Release\VS2005Extender.vbproj.GenerateResource.Cache
+d:\Documents\dhewe\dhewe's documents\Visual Studio 2005\Projects\TransCorp\_CORE_\Transbrowser2009d\VS2005Extender\obj\Release\VS2005Extender.dll
+d:\Documents\dhewe\dhewe's documents\Visual Studio 2005\Projects\TransCorp\_CORE_\Transbrowser2009d\VS2005Extender\obj\Release\VS2005Extender.xml
+d:\Documents\dhewe\dhewe's documents\Visual Studio 2005\Projects\TransCorp\_CORE_\Transbrowser2009d\VS2005Extender\obj\Release\VS2005Extender.pdb
+d:\Documents\dhewe\dhewe's documents\Transbrowser2009d\VS2005Extender\bin\Debug\VS2005Extender.dll
+d:\Documents\dhewe\dhewe's documents\Transbrowser2009d\VS2005Extender\bin\Debug\VS2005Extender.pdb
+d:\Documents\dhewe\dhewe's documents\Transbrowser2009d\VS2005Extender\bin\Debug\VS2005Extender.xml
+d:\Documents\dhewe\dhewe's documents\Transbrowser2009d\VS2005Extender\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+d:\Documents\dhewe\dhewe's documents\Transbrowser2009d\VS2005Extender\obj\Debug\ResolveAssemblyReference.cache
+d:\Documents\dhewe\dhewe's documents\Transbrowser2009d\VS2005Extender\obj\Debug\VS2005Extender.DockPaneCaption.AutoHideNo.bmp
+d:\Documents\dhewe\dhewe's documents\Transbrowser2009d\VS2005Extender\obj\Debug\VS2005Extender.DockPaneCaption.AutoHideYes.bmp
+d:\Documents\dhewe\dhewe's documents\Transbrowser2009d\VS2005Extender\obj\Debug\VS2005Extender.DockPaneCaption.CloseDisabled.bmp
+d:\Documents\dhewe\dhewe's documents\Transbrowser2009d\VS2005Extender\obj\Debug\VS2005Extender.DockPaneCaption.CloseEnabled.bmp
+d:\Documents\dhewe\dhewe's documents\Transbrowser2009d\VS2005Extender\obj\Debug\VS2005Extender.DockPaneCaption.OptionsDisabled.bmp
+d:\Documents\dhewe\dhewe's documents\Transbrowser2009d\VS2005Extender\obj\Debug\VS2005Extender.DockPaneCaption.OptionsEnabled.bmp
+d:\Documents\dhewe\dhewe's documents\Transbrowser2009d\VS2005Extender\obj\Debug\VS2005Extender.DockPaneStrip.CloseDisabled.bmp
+d:\Documents\dhewe\dhewe's documents\Transbrowser2009d\VS2005Extender\obj\Debug\VS2005Extender.DockPaneStrip.CloseEnabled.bmp
+d:\Documents\dhewe\dhewe's documents\Transbrowser2009d\VS2005Extender\obj\Debug\VS2005Extender.DockPaneStrip.OptionsDisabled.bmp
+d:\Documents\dhewe\dhewe's documents\Transbrowser2009d\VS2005Extender\obj\Debug\VS2005Extender.DockPaneStrip.OptionsEnabled.bmp
+d:\Documents\dhewe\dhewe's documents\Transbrowser2009d\VS2005Extender\obj\Debug\VS2005Extender.DockPaneStrip.OverflowDisabled.bmp
+d:\Documents\dhewe\dhewe's documents\Transbrowser2009d\VS2005Extender\obj\Debug\VS2005Extender.DockPaneStrip.OverflowEnabled.bmp
+d:\Documents\dhewe\dhewe's documents\Transbrowser2009d\VS2005Extender\obj\Debug\VS2005Extender.VS2005Style.PopupButton.resources
+d:\Documents\dhewe\dhewe's documents\Transbrowser2009d\VS2005Extender\obj\Debug\VS2005Extender.Resources.resources
+d:\Documents\dhewe\dhewe's documents\Transbrowser2009d\VS2005Extender\obj\Debug\VS2005Extender.vbproj.GenerateResource.Cache
+d:\Documents\dhewe\dhewe's documents\Transbrowser2009d\VS2005Extender\obj\Debug\VS2005Extender.dll
+d:\Documents\dhewe\dhewe's documents\Transbrowser2009d\VS2005Extender\obj\Debug\VS2005Extender.xml
+d:\Documents\dhewe\dhewe's documents\Transbrowser2009d\VS2005Extender\obj\Debug\VS2005Extender.pdb
+d:\Documents\dhewe\dhewe's documents\Transbrowser2009d\VS2005Extender\bin\Release\VS2005Extender.dll
+d:\Documents\dhewe\dhewe's documents\Transbrowser2009d\VS2005Extender\bin\Release\VS2005Extender.pdb
+d:\Documents\dhewe\dhewe's documents\Transbrowser2009d\VS2005Extender\bin\Release\VS2005Extender.xml
+d:\Documents\dhewe\dhewe's documents\Transbrowser2009d\VS2005Extender\bin\Release\WeifenLuo.WinFormsUI.Docking.dll
+d:\Documents\dhewe\dhewe's documents\Transbrowser2009d\VS2005Extender\obj\Release\ResolveAssemblyReference.cache
+d:\Documents\dhewe\dhewe's documents\Transbrowser2009d\VS2005Extender\obj\Release\VS2005Extender.DockPaneCaption.AutoHideNo.bmp
+d:\Documents\dhewe\dhewe's documents\Transbrowser2009d\VS2005Extender\obj\Release\VS2005Extender.DockPaneCaption.AutoHideYes.bmp
+d:\Documents\dhewe\dhewe's documents\Transbrowser2009d\VS2005Extender\obj\Release\VS2005Extender.DockPaneCaption.CloseDisabled.bmp
+d:\Documents\dhewe\dhewe's documents\Transbrowser2009d\VS2005Extender\obj\Release\VS2005Extender.DockPaneCaption.CloseEnabled.bmp
+d:\Documents\dhewe\dhewe's documents\Transbrowser2009d\VS2005Extender\obj\Release\VS2005Extender.DockPaneCaption.OptionsDisabled.bmp
+d:\Documents\dhewe\dhewe's documents\Transbrowser2009d\VS2005Extender\obj\Release\VS2005Extender.DockPaneCaption.OptionsEnabled.bmp
+d:\Documents\dhewe\dhewe's documents\Transbrowser2009d\VS2005Extender\obj\Release\VS2005Extender.DockPaneStrip.CloseDisabled.bmp
+d:\Documents\dhewe\dhewe's documents\Transbrowser2009d\VS2005Extender\obj\Release\VS2005Extender.DockPaneStrip.CloseEnabled.bmp
+d:\Documents\dhewe\dhewe's documents\Transbrowser2009d\VS2005Extender\obj\Release\VS2005Extender.DockPaneStrip.OptionsDisabled.bmp
+d:\Documents\dhewe\dhewe's documents\Transbrowser2009d\VS2005Extender\obj\Release\VS2005Extender.DockPaneStrip.OptionsEnabled.bmp
+d:\Documents\dhewe\dhewe's documents\Transbrowser2009d\VS2005Extender\obj\Release\VS2005Extender.DockPaneStrip.OverflowDisabled.bmp
+d:\Documents\dhewe\dhewe's documents\Transbrowser2009d\VS2005Extender\obj\Release\VS2005Extender.DockPaneStrip.OverflowEnabled.bmp
+d:\Documents\dhewe\dhewe's documents\Transbrowser2009d\VS2005Extender\obj\Release\VS2005Extender.VS2005Style.PopupButton.resources
+d:\Documents\dhewe\dhewe's documents\Transbrowser2009d\VS2005Extender\obj\Release\VS2005Extender.Resources.resources
+d:\Documents\dhewe\dhewe's documents\Transbrowser2009d\VS2005Extender\obj\Release\VS2005Extender.vbproj.GenerateResource.Cache
+d:\Documents\dhewe\dhewe's documents\Transbrowser2009d\VS2005Extender\obj\Release\VS2005Extender.dll
+d:\Documents\dhewe\dhewe's documents\Transbrowser2009d\VS2005Extender\obj\Release\VS2005Extender.xml
+d:\Documents\dhewe\dhewe's documents\Transbrowser2009d\VS2005Extender\obj\Release\VS2005Extender.pdb
+d:\Documents\dhewe\dhewe's documents\Visual Studio 2005\Projects\TransCorp\_CORE_\Transbrowser2009i\VS2005Extender\bin\Debug\VS2005Extender.dll
+d:\Documents\dhewe\dhewe's documents\Visual Studio 2005\Projects\TransCorp\_CORE_\Transbrowser2009i\VS2005Extender\bin\Debug\VS2005Extender.pdb
+d:\Documents\dhewe\dhewe's documents\Visual Studio 2005\Projects\TransCorp\_CORE_\Transbrowser2009i\VS2005Extender\bin\Debug\VS2005Extender.xml
+d:\Documents\dhewe\dhewe's documents\Visual Studio 2005\Projects\TransCorp\_CORE_\Transbrowser2009i\VS2005Extender\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+d:\Documents\dhewe\dhewe's documents\Visual Studio 2005\Projects\TransCorp\_CORE_\Transbrowser2009i\VS2005Extender\obj\Debug\ResolveAssemblyReference.cache
+d:\Documents\dhewe\dhewe's documents\Visual Studio 2005\Projects\TransCorp\_CORE_\Transbrowser2009i\VS2005Extender\obj\Debug\VS2005Extender.DockPaneCaption.AutoHideNo.bmp
+d:\Documents\dhewe\dhewe's documents\Visual Studio 2005\Projects\TransCorp\_CORE_\Transbrowser2009i\VS2005Extender\obj\Debug\VS2005Extender.DockPaneCaption.AutoHideYes.bmp
+d:\Documents\dhewe\dhewe's documents\Visual Studio 2005\Projects\TransCorp\_CORE_\Transbrowser2009i\VS2005Extender\obj\Debug\VS2005Extender.DockPaneCaption.CloseDisabled.bmp
+d:\Documents\dhewe\dhewe's documents\Visual Studio 2005\Projects\TransCorp\_CORE_\Transbrowser2009i\VS2005Extender\obj\Debug\VS2005Extender.DockPaneCaption.CloseEnabled.bmp
+d:\Documents\dhewe\dhewe's documents\Visual Studio 2005\Projects\TransCorp\_CORE_\Transbrowser2009i\VS2005Extender\obj\Debug\VS2005Extender.DockPaneCaption.OptionsDisabled.bmp
+d:\Documents\dhewe\dhewe's documents\Visual Studio 2005\Projects\TransCorp\_CORE_\Transbrowser2009i\VS2005Extender\obj\Debug\VS2005Extender.DockPaneCaption.OptionsEnabled.bmp
+d:\Documents\dhewe\dhewe's documents\Visual Studio 2005\Projects\TransCorp\_CORE_\Transbrowser2009i\VS2005Extender\obj\Debug\VS2005Extender.DockPaneStrip.CloseDisabled.bmp
+d:\Documents\dhewe\dhewe's documents\Visual Studio 2005\Projects\TransCorp\_CORE_\Transbrowser2009i\VS2005Extender\obj\Debug\VS2005Extender.DockPaneStrip.CloseEnabled.bmp
+d:\Documents\dhewe\dhewe's documents\Visual Studio 2005\Projects\TransCorp\_CORE_\Transbrowser2009i\VS2005Extender\obj\Debug\VS2005Extender.DockPaneStrip.OptionsDisabled.bmp
+d:\Documents\dhewe\dhewe's documents\Visual Studio 2005\Projects\TransCorp\_CORE_\Transbrowser2009i\VS2005Extender\obj\Debug\VS2005Extender.DockPaneStrip.OptionsEnabled.bmp
+d:\Documents\dhewe\dhewe's documents\Visual Studio 2005\Projects\TransCorp\_CORE_\Transbrowser2009i\VS2005Extender\obj\Debug\VS2005Extender.DockPaneStrip.OverflowDisabled.bmp
+d:\Documents\dhewe\dhewe's documents\Visual Studio 2005\Projects\TransCorp\_CORE_\Transbrowser2009i\VS2005Extender\obj\Debug\VS2005Extender.DockPaneStrip.OverflowEnabled.bmp
+d:\Documents\dhewe\dhewe's documents\Visual Studio 2005\Projects\TransCorp\_CORE_\Transbrowser2009i\VS2005Extender\obj\Debug\VS2005Extender.VS2005Style.PopupButton.resources
+d:\Documents\dhewe\dhewe's documents\Visual Studio 2005\Projects\TransCorp\_CORE_\Transbrowser2009i\VS2005Extender\obj\Debug\VS2005Extender.Resources.resources
+d:\Documents\dhewe\dhewe's documents\Visual Studio 2005\Projects\TransCorp\_CORE_\Transbrowser2009i\VS2005Extender\obj\Debug\VS2005Extender.vbproj.GenerateResource.Cache
+d:\Documents\dhewe\dhewe's documents\Visual Studio 2005\Projects\TransCorp\_CORE_\Transbrowser2009i\VS2005Extender\obj\Debug\VS2005Extender.dll
+d:\Documents\dhewe\dhewe's documents\Visual Studio 2005\Projects\TransCorp\_CORE_\Transbrowser2009i\VS2005Extender\obj\Debug\VS2005Extender.xml
+d:\Documents\dhewe\dhewe's documents\Visual Studio 2005\Projects\TransCorp\_CORE_\Transbrowser2009i\VS2005Extender\obj\Debug\VS2005Extender.pdb
+d:\Documents\dhewe\dhewe's documents\Visual Studio 2005\Projects\TransCorp\_CORE_\Transbrowser2009i\VS2005Extender\bin\Release\VS2005Extender.dll
+d:\Documents\dhewe\dhewe's documents\Visual Studio 2005\Projects\TransCorp\_CORE_\Transbrowser2009i\VS2005Extender\bin\Release\VS2005Extender.pdb
+d:\Documents\dhewe\dhewe's documents\Visual Studio 2005\Projects\TransCorp\_CORE_\Transbrowser2009i\VS2005Extender\bin\Release\VS2005Extender.xml
+d:\Documents\dhewe\dhewe's documents\Visual Studio 2005\Projects\TransCorp\_CORE_\Transbrowser2009i\VS2005Extender\bin\Release\WeifenLuo.WinFormsUI.Docking.dll
+d:\Documents\dhewe\dhewe's documents\Visual Studio 2005\Projects\TransCorp\_CORE_\Transbrowser2009i\VS2005Extender\obj\Release\ResolveAssemblyReference.cache
+d:\Documents\dhewe\dhewe's documents\Visual Studio 2005\Projects\TransCorp\_CORE_\Transbrowser2009i\VS2005Extender\obj\Release\VS2005Extender.DockPaneCaption.AutoHideNo.bmp
+d:\Documents\dhewe\dhewe's documents\Visual Studio 2005\Projects\TransCorp\_CORE_\Transbrowser2009i\VS2005Extender\obj\Release\VS2005Extender.DockPaneCaption.AutoHideYes.bmp
+d:\Documents\dhewe\dhewe's documents\Visual Studio 2005\Projects\TransCorp\_CORE_\Transbrowser2009i\VS2005Extender\obj\Release\VS2005Extender.DockPaneCaption.CloseDisabled.bmp
+d:\Documents\dhewe\dhewe's documents\Visual Studio 2005\Projects\TransCorp\_CORE_\Transbrowser2009i\VS2005Extender\obj\Release\VS2005Extender.DockPaneCaption.CloseEnabled.bmp
+d:\Documents\dhewe\dhewe's documents\Visual Studio 2005\Projects\TransCorp\_CORE_\Transbrowser2009i\VS2005Extender\obj\Release\VS2005Extender.DockPaneCaption.OptionsDisabled.bmp
+d:\Documents\dhewe\dhewe's documents\Visual Studio 2005\Projects\TransCorp\_CORE_\Transbrowser2009i\VS2005Extender\obj\Release\VS2005Extender.DockPaneCaption.OptionsEnabled.bmp
+d:\Documents\dhewe\dhewe's documents\Visual Studio 2005\Projects\TransCorp\_CORE_\Transbrowser2009i\VS2005Extender\obj\Release\VS2005Extender.DockPaneStrip.CloseDisabled.bmp
+d:\Documents\dhewe\dhewe's documents\Visual Studio 2005\Projects\TransCorp\_CORE_\Transbrowser2009i\VS2005Extender\obj\Release\VS2005Extender.DockPaneStrip.CloseEnabled.bmp
+d:\Documents\dhewe\dhewe's documents\Visual Studio 2005\Projects\TransCorp\_CORE_\Transbrowser2009i\VS2005Extender\obj\Release\VS2005Extender.DockPaneStrip.OptionsDisabled.bmp
+d:\Documents\dhewe\dhewe's documents\Visual Studio 2005\Projects\TransCorp\_CORE_\Transbrowser2009i\VS2005Extender\obj\Release\VS2005Extender.DockPaneStrip.OptionsEnabled.bmp
+d:\Documents\dhewe\dhewe's documents\Visual Studio 2005\Projects\TransCorp\_CORE_\Transbrowser2009i\VS2005Extender\obj\Release\VS2005Extender.DockPaneStrip.OverflowDisabled.bmp
+d:\Documents\dhewe\dhewe's documents\Visual Studio 2005\Projects\TransCorp\_CORE_\Transbrowser2009i\VS2005Extender\obj\Release\VS2005Extender.DockPaneStrip.OverflowEnabled.bmp
+d:\Documents\dhewe\dhewe's documents\Visual Studio 2005\Projects\TransCorp\_CORE_\Transbrowser2009i\VS2005Extender\obj\Release\VS2005Extender.VS2005Style.PopupButton.resources
+d:\Documents\dhewe\dhewe's documents\Visual Studio 2005\Projects\TransCorp\_CORE_\Transbrowser2009i\VS2005Extender\obj\Release\VS2005Extender.Resources.resources
+d:\Documents\dhewe\dhewe's documents\Visual Studio 2005\Projects\TransCorp\_CORE_\Transbrowser2009i\VS2005Extender\obj\Release\VS2005Extender.vbproj.GenerateResource.Cache
+d:\Documents\dhewe\dhewe's documents\Visual Studio 2005\Projects\TransCorp\_CORE_\Transbrowser2009i\VS2005Extender\obj\Release\VS2005Extender.dll
+d:\Documents\dhewe\dhewe's documents\Visual Studio 2005\Projects\TransCorp\_CORE_\Transbrowser2009i\VS2005Extender\obj\Release\VS2005Extender.xml
+d:\Documents\dhewe\dhewe's documents\Visual Studio 2005\Projects\TransCorp\_CORE_\Transbrowser2009i\VS2005Extender\obj\Release\VS2005Extender.pdb
+D:\Webdocs\wwwroot\crossroads\Transbrowser2009i\VS2005Extender\bin\Debug\VS2005Extender.dll
+D:\Webdocs\wwwroot\crossroads\Transbrowser2009i\VS2005Extender\bin\Debug\VS2005Extender.pdb
+D:\Webdocs\wwwroot\crossroads\Transbrowser2009i\VS2005Extender\bin\Debug\VS2005Extender.xml
+D:\Webdocs\wwwroot\crossroads\Transbrowser2009i\VS2005Extender\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+D:\Webdocs\wwwroot\crossroads\Transbrowser2009i\VS2005Extender\obj\Debug\ResolveAssemblyReference.cache
+D:\Webdocs\wwwroot\crossroads\Transbrowser2009i\VS2005Extender\obj\Debug\VS2005Extender.DockPaneCaption.AutoHideNo.bmp
+D:\Webdocs\wwwroot\crossroads\Transbrowser2009i\VS2005Extender\obj\Debug\VS2005Extender.DockPaneCaption.AutoHideYes.bmp
+D:\Webdocs\wwwroot\crossroads\Transbrowser2009i\VS2005Extender\obj\Debug\VS2005Extender.DockPaneCaption.CloseDisabled.bmp
+D:\Webdocs\wwwroot\crossroads\Transbrowser2009i\VS2005Extender\obj\Debug\VS2005Extender.DockPaneCaption.CloseEnabled.bmp
+D:\Webdocs\wwwroot\crossroads\Transbrowser2009i\VS2005Extender\obj\Debug\VS2005Extender.DockPaneCaption.OptionsDisabled.bmp
+D:\Webdocs\wwwroot\crossroads\Transbrowser2009i\VS2005Extender\obj\Debug\VS2005Extender.DockPaneCaption.OptionsEnabled.bmp
+D:\Webdocs\wwwroot\crossroads\Transbrowser2009i\VS2005Extender\obj\Debug\VS2005Extender.DockPaneStrip.CloseDisabled.bmp
+D:\Webdocs\wwwroot\crossroads\Transbrowser2009i\VS2005Extender\obj\Debug\VS2005Extender.DockPaneStrip.CloseEnabled.bmp
+D:\Webdocs\wwwroot\crossroads\Transbrowser2009i\VS2005Extender\obj\Debug\VS2005Extender.DockPaneStrip.OptionsDisabled.bmp
+D:\Webdocs\wwwroot\crossroads\Transbrowser2009i\VS2005Extender\obj\Debug\VS2005Extender.DockPaneStrip.OptionsEnabled.bmp
+D:\Webdocs\wwwroot\crossroads\Transbrowser2009i\VS2005Extender\obj\Debug\VS2005Extender.DockPaneStrip.OverflowDisabled.bmp
+D:\Webdocs\wwwroot\crossroads\Transbrowser2009i\VS2005Extender\obj\Debug\VS2005Extender.DockPaneStrip.OverflowEnabled.bmp
+D:\Webdocs\wwwroot\crossroads\Transbrowser2009i\VS2005Extender\obj\Debug\VS2005Extender.VS2005Style.PopupButton.resources
+D:\Webdocs\wwwroot\crossroads\Transbrowser2009i\VS2005Extender\obj\Debug\VS2005Extender.Resources.resources
+D:\Webdocs\wwwroot\crossroads\Transbrowser2009i\VS2005Extender\obj\Debug\VS2005Extender.vbproj.GenerateResource.Cache
+D:\Webdocs\wwwroot\crossroads\Transbrowser2009i\VS2005Extender\obj\Debug\VS2005Extender.dll
+D:\Webdocs\wwwroot\crossroads\Transbrowser2009i\VS2005Extender\obj\Debug\VS2005Extender.xml
+D:\Webdocs\wwwroot\crossroads\Transbrowser2009i\VS2005Extender\obj\Debug\VS2005Extender.pdb
+D:\Webdocs\wwwroot\crossroads\Transbrowser2009i\VS2005Extender\bin\Release\VS2005Extender.dll
+D:\Webdocs\wwwroot\crossroads\Transbrowser2009i\VS2005Extender\bin\Release\VS2005Extender.pdb
+D:\Webdocs\wwwroot\crossroads\Transbrowser2009i\VS2005Extender\bin\Release\VS2005Extender.xml
+D:\Webdocs\wwwroot\crossroads\Transbrowser2009i\VS2005Extender\bin\Release\WeifenLuo.WinFormsUI.Docking.dll
+D:\Webdocs\wwwroot\crossroads\Transbrowser2009i\VS2005Extender\obj\Release\ResolveAssemblyReference.cache
+D:\Webdocs\wwwroot\crossroads\Transbrowser2009i\VS2005Extender\obj\Release\VS2005Extender.DockPaneCaption.AutoHideNo.bmp
+D:\Webdocs\wwwroot\crossroads\Transbrowser2009i\VS2005Extender\obj\Release\VS2005Extender.DockPaneCaption.AutoHideYes.bmp
+D:\Webdocs\wwwroot\crossroads\Transbrowser2009i\VS2005Extender\obj\Release\VS2005Extender.DockPaneCaption.CloseDisabled.bmp
+D:\Webdocs\wwwroot\crossroads\Transbrowser2009i\VS2005Extender\obj\Release\VS2005Extender.DockPaneCaption.CloseEnabled.bmp
+D:\Webdocs\wwwroot\crossroads\Transbrowser2009i\VS2005Extender\obj\Release\VS2005Extender.DockPaneCaption.OptionsDisabled.bmp
+D:\Webdocs\wwwroot\crossroads\Transbrowser2009i\VS2005Extender\obj\Release\VS2005Extender.DockPaneCaption.OptionsEnabled.bmp
+D:\Webdocs\wwwroot\crossroads\Transbrowser2009i\VS2005Extender\obj\Release\VS2005Extender.DockPaneStrip.CloseDisabled.bmp
+D:\Webdocs\wwwroot\crossroads\Transbrowser2009i\VS2005Extender\obj\Release\VS2005Extender.DockPaneStrip.CloseEnabled.bmp
+D:\Webdocs\wwwroot\crossroads\Transbrowser2009i\VS2005Extender\obj\Release\VS2005Extender.DockPaneStrip.OptionsDisabled.bmp
+D:\Webdocs\wwwroot\crossroads\Transbrowser2009i\VS2005Extender\obj\Release\VS2005Extender.DockPaneStrip.OptionsEnabled.bmp
+D:\Webdocs\wwwroot\crossroads\Transbrowser2009i\VS2005Extender\obj\Release\VS2005Extender.DockPaneStrip.OverflowDisabled.bmp
+D:\Webdocs\wwwroot\crossroads\Transbrowser2009i\VS2005Extender\obj\Release\VS2005Extender.DockPaneStrip.OverflowEnabled.bmp
+D:\Webdocs\wwwroot\crossroads\Transbrowser2009i\VS2005Extender\obj\Release\VS2005Extender.VS2005Style.PopupButton.resources
+D:\Webdocs\wwwroot\crossroads\Transbrowser2009i\VS2005Extender\obj\Release\VS2005Extender.Resources.resources
+D:\Webdocs\wwwroot\crossroads\Transbrowser2009i\VS2005Extender\obj\Release\VS2005Extender.vbproj.GenerateResource.Cache
+D:\Webdocs\wwwroot\crossroads\Transbrowser2009i\VS2005Extender\obj\Release\VS2005Extender.dll
+D:\Webdocs\wwwroot\crossroads\Transbrowser2009i\VS2005Extender\obj\Release\VS2005Extender.xml
+D:\Webdocs\wwwroot\crossroads\Transbrowser2009i\VS2005Extender\obj\Release\VS2005Extender.pdb
+C:\Inetpub\wwwroot\crossroads\Transbrowser2009i\VS2005Extender\bin\Release\VS2005Extender.dll
+C:\Inetpub\wwwroot\crossroads\Transbrowser2009i\VS2005Extender\bin\Release\VS2005Extender.pdb
+C:\Inetpub\wwwroot\crossroads\Transbrowser2009i\VS2005Extender\bin\Release\VS2005Extender.xml
+C:\Inetpub\wwwroot\crossroads\Transbrowser2009i\VS2005Extender\bin\Release\WeifenLuo.WinFormsUI.Docking.dll
+C:\Inetpub\wwwroot\crossroads\Transbrowser2009i\VS2005Extender\obj\Release\ResolveAssemblyReference.cache
+C:\Inetpub\wwwroot\crossroads\Transbrowser2009i\VS2005Extender\obj\Release\VS2005Extender.DockPaneCaption.AutoHideNo.bmp
+C:\Inetpub\wwwroot\crossroads\Transbrowser2009i\VS2005Extender\obj\Release\VS2005Extender.DockPaneCaption.AutoHideYes.bmp
+C:\Inetpub\wwwroot\crossroads\Transbrowser2009i\VS2005Extender\obj\Release\VS2005Extender.DockPaneCaption.CloseDisabled.bmp
+C:\Inetpub\wwwroot\crossroads\Transbrowser2009i\VS2005Extender\obj\Release\VS2005Extender.DockPaneCaption.CloseEnabled.bmp
+C:\Inetpub\wwwroot\crossroads\Transbrowser2009i\VS2005Extender\obj\Release\VS2005Extender.DockPaneCaption.OptionsDisabled.bmp
+C:\Inetpub\wwwroot\crossroads\Transbrowser2009i\VS2005Extender\obj\Release\VS2005Extender.DockPaneCaption.OptionsEnabled.bmp
+C:\Inetpub\wwwroot\crossroads\Transbrowser2009i\VS2005Extender\obj\Release\VS2005Extender.DockPaneStrip.CloseDisabled.bmp
+C:\Inetpub\wwwroot\crossroads\Transbrowser2009i\VS2005Extender\obj\Release\VS2005Extender.DockPaneStrip.CloseEnabled.bmp
+C:\Inetpub\wwwroot\crossroads\Transbrowser2009i\VS2005Extender\obj\Release\VS2005Extender.DockPaneStrip.OptionsDisabled.bmp
+C:\Inetpub\wwwroot\crossroads\Transbrowser2009i\VS2005Extender\obj\Release\VS2005Extender.DockPaneStrip.OptionsEnabled.bmp
+C:\Inetpub\wwwroot\crossroads\Transbrowser2009i\VS2005Extender\obj\Release\VS2005Extender.DockPaneStrip.OverflowDisabled.bmp
+C:\Inetpub\wwwroot\crossroads\Transbrowser2009i\VS2005Extender\obj\Release\VS2005Extender.DockPaneStrip.OverflowEnabled.bmp
+C:\Inetpub\wwwroot\crossroads\Transbrowser2009i\VS2005Extender\obj\Release\VS2005Extender.VS2005Style.PopupButton.resources
+C:\Inetpub\wwwroot\crossroads\Transbrowser2009i\VS2005Extender\obj\Release\VS2005Extender.Resources.resources
+C:\Inetpub\wwwroot\crossroads\Transbrowser2009i\VS2005Extender\obj\Release\VS2005Extender.vbproj.GenerateResource.Cache
+C:\Inetpub\wwwroot\crossroads\Transbrowser2009i\VS2005Extender\obj\Release\VS2005Extender.dll
+C:\Inetpub\wwwroot\crossroads\Transbrowser2009i\VS2005Extender\obj\Release\VS2005Extender.xml
+C:\Inetpub\wwwroot\crossroads\Transbrowser2009i\VS2005Extender\obj\Release\VS2005Extender.pdb
+C:\Inetpub\wwwroot\crossroads_1\Transbrowser2009i\VS2005Extender\bin\Release\VS2005Extender.dll
+C:\Inetpub\wwwroot\crossroads_1\Transbrowser2009i\VS2005Extender\bin\Release\VS2005Extender.pdb
+C:\Inetpub\wwwroot\crossroads_1\Transbrowser2009i\VS2005Extender\bin\Release\VS2005Extender.xml
+C:\Inetpub\wwwroot\crossroads_1\Transbrowser2009i\VS2005Extender\bin\Release\WeifenLuo.WinFormsUI.Docking.dll
+C:\Inetpub\wwwroot\crossroads_1\Transbrowser2009i\VS2005Extender\obj\Release\ResolveAssemblyReference.cache
+C:\Inetpub\wwwroot\crossroads_1\Transbrowser2009i\VS2005Extender\obj\Release\VS2005Extender.DockPaneCaption.AutoHideNo.bmp
+C:\Inetpub\wwwroot\crossroads_1\Transbrowser2009i\VS2005Extender\obj\Release\VS2005Extender.DockPaneCaption.AutoHideYes.bmp
+C:\Inetpub\wwwroot\crossroads_1\Transbrowser2009i\VS2005Extender\obj\Release\VS2005Extender.DockPaneCaption.CloseDisabled.bmp
+C:\Inetpub\wwwroot\crossroads_1\Transbrowser2009i\VS2005Extender\obj\Release\VS2005Extender.DockPaneCaption.CloseEnabled.bmp
+C:\Inetpub\wwwroot\crossroads_1\Transbrowser2009i\VS2005Extender\obj\Release\VS2005Extender.DockPaneCaption.OptionsDisabled.bmp
+C:\Inetpub\wwwroot\crossroads_1\Transbrowser2009i\VS2005Extender\obj\Release\VS2005Extender.DockPaneCaption.OptionsEnabled.bmp
+C:\Inetpub\wwwroot\crossroads_1\Transbrowser2009i\VS2005Extender\obj\Release\VS2005Extender.DockPaneStrip.CloseDisabled.bmp
+C:\Inetpub\wwwroot\crossroads_1\Transbrowser2009i\VS2005Extender\obj\Release\VS2005Extender.DockPaneStrip.CloseEnabled.bmp
+C:\Inetpub\wwwroot\crossroads_1\Transbrowser2009i\VS2005Extender\obj\Release\VS2005Extender.DockPaneStrip.OptionsDisabled.bmp
+C:\Inetpub\wwwroot\crossroads_1\Transbrowser2009i\VS2005Extender\obj\Release\VS2005Extender.DockPaneStrip.OptionsEnabled.bmp
+C:\Inetpub\wwwroot\crossroads_1\Transbrowser2009i\VS2005Extender\obj\Release\VS2005Extender.DockPaneStrip.OverflowDisabled.bmp
+C:\Inetpub\wwwroot\crossroads_1\Transbrowser2009i\VS2005Extender\obj\Release\VS2005Extender.DockPaneStrip.OverflowEnabled.bmp
+C:\Inetpub\wwwroot\crossroads_1\Transbrowser2009i\VS2005Extender\obj\Release\VS2005Extender.VS2005Style.PopupButton.resources
+C:\Inetpub\wwwroot\crossroads_1\Transbrowser2009i\VS2005Extender\obj\Release\VS2005Extender.Resources.resources
+C:\Inetpub\wwwroot\crossroads_1\Transbrowser2009i\VS2005Extender\obj\Release\VS2005Extender.vbproj.GenerateResource.Cache
+C:\Inetpub\wwwroot\crossroads_1\Transbrowser2009i\VS2005Extender\obj\Release\VS2005Extender.dll
+C:\Inetpub\wwwroot\crossroads_1\Transbrowser2009i\VS2005Extender\obj\Release\VS2005Extender.xml
+C:\Inetpub\wwwroot\crossroads_1\Transbrowser2009i\VS2005Extender\obj\Release\VS2005Extender.pdb
+C:\Inetpub\wwwroot\crossroads_1\Transbrowser2009i\VS2005Extender\bin\Debug\VS2005Extender.dll
+C:\Inetpub\wwwroot\crossroads_1\Transbrowser2009i\VS2005Extender\bin\Debug\VS2005Extender.pdb
+C:\Inetpub\wwwroot\crossroads_1\Transbrowser2009i\VS2005Extender\bin\Debug\VS2005Extender.xml
+C:\Inetpub\wwwroot\crossroads_1\Transbrowser2009i\VS2005Extender\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+C:\Inetpub\wwwroot\crossroads_1\Transbrowser2009i\VS2005Extender\obj\Debug\ResolveAssemblyReference.cache
+C:\Inetpub\wwwroot\crossroads_1\Transbrowser2009i\VS2005Extender\obj\Debug\VS2005Extender.DockPaneCaption.AutoHideNo.bmp
+C:\Inetpub\wwwroot\crossroads_1\Transbrowser2009i\VS2005Extender\obj\Debug\VS2005Extender.DockPaneCaption.AutoHideYes.bmp
+C:\Inetpub\wwwroot\crossroads_1\Transbrowser2009i\VS2005Extender\obj\Debug\VS2005Extender.DockPaneCaption.CloseDisabled.bmp
+C:\Inetpub\wwwroot\crossroads_1\Transbrowser2009i\VS2005Extender\obj\Debug\VS2005Extender.DockPaneCaption.CloseEnabled.bmp
+C:\Inetpub\wwwroot\crossroads_1\Transbrowser2009i\VS2005Extender\obj\Debug\VS2005Extender.DockPaneCaption.OptionsDisabled.bmp
+C:\Inetpub\wwwroot\crossroads_1\Transbrowser2009i\VS2005Extender\obj\Debug\VS2005Extender.DockPaneCaption.OptionsEnabled.bmp
+C:\Inetpub\wwwroot\crossroads_1\Transbrowser2009i\VS2005Extender\obj\Debug\VS2005Extender.DockPaneStrip.CloseDisabled.bmp
+C:\Inetpub\wwwroot\crossroads_1\Transbrowser2009i\VS2005Extender\obj\Debug\VS2005Extender.DockPaneStrip.CloseEnabled.bmp
+C:\Inetpub\wwwroot\crossroads_1\Transbrowser2009i\VS2005Extender\obj\Debug\VS2005Extender.DockPaneStrip.OptionsDisabled.bmp
+C:\Inetpub\wwwroot\crossroads_1\Transbrowser2009i\VS2005Extender\obj\Debug\VS2005Extender.DockPaneStrip.OptionsEnabled.bmp
+C:\Inetpub\wwwroot\crossroads_1\Transbrowser2009i\VS2005Extender\obj\Debug\VS2005Extender.DockPaneStrip.OverflowDisabled.bmp
+C:\Inetpub\wwwroot\crossroads_1\Transbrowser2009i\VS2005Extender\obj\Debug\VS2005Extender.DockPaneStrip.OverflowEnabled.bmp
+C:\Inetpub\wwwroot\crossroads_1\Transbrowser2009i\VS2005Extender\obj\Debug\VS2005Extender.VS2005Style.PopupButton.resources
+C:\Inetpub\wwwroot\crossroads_1\Transbrowser2009i\VS2005Extender\obj\Debug\VS2005Extender.Resources.resources
+C:\Inetpub\wwwroot\crossroads_1\Transbrowser2009i\VS2005Extender\obj\Debug\VS2005Extender.vbproj.GenerateResource.Cache
+C:\Inetpub\wwwroot\crossroads_1\Transbrowser2009i\VS2005Extender\obj\Debug\VS2005Extender.dll
+C:\Inetpub\wwwroot\crossroads_1\Transbrowser2009i\VS2005Extender\obj\Debug\VS2005Extender.xml
+C:\Inetpub\wwwroot\crossroads_1\Transbrowser2009i\VS2005Extender\obj\Debug\VS2005Extender.pdb
+D:\wwwroot\crossroads\Transbrowser2009i\VS2005Extender\bin\Debug\VS2005Extender.dll
+D:\wwwroot\crossroads\Transbrowser2009i\VS2005Extender\bin\Debug\VS2005Extender.pdb
+D:\wwwroot\crossroads\Transbrowser2009i\VS2005Extender\bin\Debug\VS2005Extender.xml
+D:\wwwroot\crossroads\Transbrowser2009i\VS2005Extender\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+D:\wwwroot\crossroads\Transbrowser2009i\VS2005Extender\obj\Debug\ResolveAssemblyReference.cache
+D:\wwwroot\crossroads\Transbrowser2009i\VS2005Extender\obj\Debug\VS2005Extender.DockPaneCaption.AutoHideNo.bmp
+D:\wwwroot\crossroads\Transbrowser2009i\VS2005Extender\obj\Debug\VS2005Extender.DockPaneCaption.AutoHideYes.bmp
+D:\wwwroot\crossroads\Transbrowser2009i\VS2005Extender\obj\Debug\VS2005Extender.DockPaneCaption.CloseDisabled.bmp
+D:\wwwroot\crossroads\Transbrowser2009i\VS2005Extender\obj\Debug\VS2005Extender.DockPaneCaption.CloseEnabled.bmp
+D:\wwwroot\crossroads\Transbrowser2009i\VS2005Extender\obj\Debug\VS2005Extender.DockPaneCaption.OptionsDisabled.bmp
+D:\wwwroot\crossroads\Transbrowser2009i\VS2005Extender\obj\Debug\VS2005Extender.DockPaneCaption.OptionsEnabled.bmp
+D:\wwwroot\crossroads\Transbrowser2009i\VS2005Extender\obj\Debug\VS2005Extender.DockPaneStrip.CloseDisabled.bmp
+D:\wwwroot\crossroads\Transbrowser2009i\VS2005Extender\obj\Debug\VS2005Extender.DockPaneStrip.CloseEnabled.bmp
+D:\wwwroot\crossroads\Transbrowser2009i\VS2005Extender\obj\Debug\VS2005Extender.DockPaneStrip.OptionsDisabled.bmp
+D:\wwwroot\crossroads\Transbrowser2009i\VS2005Extender\obj\Debug\VS2005Extender.DockPaneStrip.OptionsEnabled.bmp
+D:\wwwroot\crossroads\Transbrowser2009i\VS2005Extender\obj\Debug\VS2005Extender.DockPaneStrip.OverflowDisabled.bmp
+D:\wwwroot\crossroads\Transbrowser2009i\VS2005Extender\obj\Debug\VS2005Extender.DockPaneStrip.OverflowEnabled.bmp
+D:\wwwroot\crossroads\Transbrowser2009i\VS2005Extender\obj\Debug\VS2005Extender.VS2005Style.PopupButton.resources
+D:\wwwroot\crossroads\Transbrowser2009i\VS2005Extender\obj\Debug\VS2005Extender.Resources.resources
+D:\wwwroot\crossroads\Transbrowser2009i\VS2005Extender\obj\Debug\VS2005Extender.vbproj.GenerateResource.Cache
+D:\wwwroot\crossroads\Transbrowser2009i\VS2005Extender\obj\Debug\VS2005Extender.dll
+D:\wwwroot\crossroads\Transbrowser2009i\VS2005Extender\obj\Debug\VS2005Extender.xml
+D:\wwwroot\crossroads\Transbrowser2009i\VS2005Extender\obj\Debug\VS2005Extender.pdb
+D:\webdocs\crossroads\Transbrowser2009i\VS2005Extender\bin\Debug\VS2005Extender.dll
+D:\webdocs\crossroads\Transbrowser2009i\VS2005Extender\bin\Debug\VS2005Extender.pdb
+D:\webdocs\crossroads\Transbrowser2009i\VS2005Extender\bin\Debug\VS2005Extender.xml
+D:\webdocs\crossroads\Transbrowser2009i\VS2005Extender\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+D:\webdocs\crossroads\Transbrowser2009i\VS2005Extender\obj\Debug\ResolveAssemblyReference.cache
+D:\webdocs\crossroads\Transbrowser2009i\VS2005Extender\obj\Debug\VS2005Extender.DockPaneCaption.AutoHideNo.bmp
+D:\webdocs\crossroads\Transbrowser2009i\VS2005Extender\obj\Debug\VS2005Extender.DockPaneCaption.AutoHideYes.bmp
+D:\webdocs\crossroads\Transbrowser2009i\VS2005Extender\obj\Debug\VS2005Extender.DockPaneCaption.CloseDisabled.bmp
+D:\webdocs\crossroads\Transbrowser2009i\VS2005Extender\obj\Debug\VS2005Extender.DockPaneCaption.CloseEnabled.bmp
+D:\webdocs\crossroads\Transbrowser2009i\VS2005Extender\obj\Debug\VS2005Extender.DockPaneCaption.OptionsDisabled.bmp
+D:\webdocs\crossroads\Transbrowser2009i\VS2005Extender\obj\Debug\VS2005Extender.DockPaneCaption.OptionsEnabled.bmp
+D:\webdocs\crossroads\Transbrowser2009i\VS2005Extender\obj\Debug\VS2005Extender.DockPaneStrip.CloseDisabled.bmp
+D:\webdocs\crossroads\Transbrowser2009i\VS2005Extender\obj\Debug\VS2005Extender.DockPaneStrip.CloseEnabled.bmp
+D:\webdocs\crossroads\Transbrowser2009i\VS2005Extender\obj\Debug\VS2005Extender.DockPaneStrip.OptionsDisabled.bmp
+D:\webdocs\crossroads\Transbrowser2009i\VS2005Extender\obj\Debug\VS2005Extender.DockPaneStrip.OptionsEnabled.bmp
+D:\webdocs\crossroads\Transbrowser2009i\VS2005Extender\obj\Debug\VS2005Extender.DockPaneStrip.OverflowDisabled.bmp
+D:\webdocs\crossroads\Transbrowser2009i\VS2005Extender\obj\Debug\VS2005Extender.DockPaneStrip.OverflowEnabled.bmp
+D:\webdocs\crossroads\Transbrowser2009i\VS2005Extender\obj\Debug\VS2005Extender.VS2005Style.PopupButton.resources
+D:\webdocs\crossroads\Transbrowser2009i\VS2005Extender\obj\Debug\VS2005Extender.Resources.resources
+D:\webdocs\crossroads\Transbrowser2009i\VS2005Extender\obj\Debug\VS2005Extender.vbproj.GenerateResource.Cache
+D:\webdocs\crossroads\Transbrowser2009i\VS2005Extender\obj\Debug\VS2005Extender.dll
+D:\webdocs\crossroads\Transbrowser2009i\VS2005Extender\obj\Debug\VS2005Extender.xml
+D:\webdocs\crossroads\Transbrowser2009i\VS2005Extender\obj\Debug\VS2005Extender.pdb
+C:\Users\admin\Documents\Visual Studio 2005\Projects\Transbrowser2009i\VS2005Extender\bin\Debug\VS2005Extender.dll
+C:\Users\admin\Documents\Visual Studio 2005\Projects\Transbrowser2009i\VS2005Extender\bin\Debug\VS2005Extender.pdb
+C:\Users\admin\Documents\Visual Studio 2005\Projects\Transbrowser2009i\VS2005Extender\bin\Debug\VS2005Extender.xml
+C:\Users\admin\Documents\Visual Studio 2005\Projects\Transbrowser2009i\VS2005Extender\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+C:\Users\admin\Documents\Visual Studio 2005\Projects\Transbrowser2009i\VS2005Extender\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2005\Projects\Transbrowser2009i\VS2005Extender\obj\Debug\VS2005Extender.DockPaneCaption.AutoHideNo.bmp
+C:\Users\admin\Documents\Visual Studio 2005\Projects\Transbrowser2009i\VS2005Extender\obj\Debug\VS2005Extender.DockPaneCaption.AutoHideYes.bmp
+C:\Users\admin\Documents\Visual Studio 2005\Projects\Transbrowser2009i\VS2005Extender\obj\Debug\VS2005Extender.DockPaneCaption.CloseDisabled.bmp
+C:\Users\admin\Documents\Visual Studio 2005\Projects\Transbrowser2009i\VS2005Extender\obj\Debug\VS2005Extender.DockPaneCaption.CloseEnabled.bmp
+C:\Users\admin\Documents\Visual Studio 2005\Projects\Transbrowser2009i\VS2005Extender\obj\Debug\VS2005Extender.DockPaneCaption.OptionsDisabled.bmp
+C:\Users\admin\Documents\Visual Studio 2005\Projects\Transbrowser2009i\VS2005Extender\obj\Debug\VS2005Extender.DockPaneCaption.OptionsEnabled.bmp
+C:\Users\admin\Documents\Visual Studio 2005\Projects\Transbrowser2009i\VS2005Extender\obj\Debug\VS2005Extender.DockPaneStrip.CloseDisabled.bmp
+C:\Users\admin\Documents\Visual Studio 2005\Projects\Transbrowser2009i\VS2005Extender\obj\Debug\VS2005Extender.DockPaneStrip.CloseEnabled.bmp
+C:\Users\admin\Documents\Visual Studio 2005\Projects\Transbrowser2009i\VS2005Extender\obj\Debug\VS2005Extender.DockPaneStrip.OptionsDisabled.bmp
+C:\Users\admin\Documents\Visual Studio 2005\Projects\Transbrowser2009i\VS2005Extender\obj\Debug\VS2005Extender.DockPaneStrip.OptionsEnabled.bmp
+C:\Users\admin\Documents\Visual Studio 2005\Projects\Transbrowser2009i\VS2005Extender\obj\Debug\VS2005Extender.DockPaneStrip.OverflowDisabled.bmp
+C:\Users\admin\Documents\Visual Studio 2005\Projects\Transbrowser2009i\VS2005Extender\obj\Debug\VS2005Extender.DockPaneStrip.OverflowEnabled.bmp
+C:\Users\admin\Documents\Visual Studio 2005\Projects\Transbrowser2009i\VS2005Extender\obj\Debug\VS2005Extender.VS2005Style.PopupButton.resources
+C:\Users\admin\Documents\Visual Studio 2005\Projects\Transbrowser2009i\VS2005Extender\obj\Debug\VS2005Extender.Resources.resources
+C:\Users\admin\Documents\Visual Studio 2005\Projects\Transbrowser2009i\VS2005Extender\obj\Debug\VS2005Extender.vbproj.GenerateResource.Cache
+C:\Users\admin\Documents\Visual Studio 2005\Projects\Transbrowser2009i\VS2005Extender\obj\Debug\VS2005Extender.dll
+C:\Users\admin\Documents\Visual Studio 2005\Projects\Transbrowser2009i\VS2005Extender\obj\Debug\VS2005Extender.xml
+C:\Users\admin\Documents\Visual Studio 2005\Projects\Transbrowser2009i\VS2005Extender\obj\Debug\VS2005Extender.pdb
